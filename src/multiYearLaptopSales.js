@@ -2,6 +2,30 @@ export default [
     {
         "transactionDate": "Sun Feb 25 2018 19:41:51 GMT+0800 (Malaysia Time)",
         "monthSold": 1,
+        "yearSold": 2017,
+        "model": "latitude",
+        "cost": 2500,
+        "salesPrice": 6000
+    },
+    {
+        "transactionDate": "Sun Feb 25 2018 19:41:51 GMT+0800 (Malaysia Time)",
+        "monthSold": 1,
+        "yearSold": 2017,
+        "model": "xps",
+        "cost": 2500,
+        "salesPrice": 6000
+    },
+    {
+        "transactionDate": "Sun Feb 25 2018 19:41:51 GMT+0800 (Malaysia Time)",
+        "monthSold": 1,
+        "yearSold": 2017,
+        "model": "inspiron",
+        "cost": 2500,
+        "salesPrice": 6000
+    },
+    {
+        "transactionDate": "Sun Feb 25 2018 19:41:51 GMT+0800 (Malaysia Time)",
+        "monthSold": 1,
         "yearSold": 2018,
         "model": "latitude",
         "cost": 2500,
